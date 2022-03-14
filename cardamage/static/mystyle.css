@@ -1,0 +1,10 @@
+.jumbotron {
+  background: none !important;
+  position: fixed;
+  left: 50px;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 0;
+}
